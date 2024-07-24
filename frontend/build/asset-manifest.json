@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Muni1503/mini-ecommerce-frontend/static/css/main.7608802d.css",
+    "main.js": "/Muni1503/mini-ecommerce-frontend/static/js/main.0466d77b.js",
+    "index.html": "/Muni1503/mini-ecommerce-frontend/index.html",
+    "main.7608802d.css.map": "/Muni1503/mini-ecommerce-frontend/static/css/main.7608802d.css.map",
+    "main.0466d77b.js.map": "/Muni1503/mini-ecommerce-frontend/static/js/main.0466d77b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7608802d.css",
+    "static/js/main.0466d77b.js"
+  ]
+}
